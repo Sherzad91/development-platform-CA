@@ -63,7 +63,7 @@ Eksempel på funksjonstabell:
 Du kan finne dette nettverktøyet nyttig for å lage tabeller:
 https://www.tablesgenerator.com/markdown_tables
 
-## Market Comparison
+## Markedssammenligning
 
 Markedssammenligning:
 
